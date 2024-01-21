@@ -1,0 +1,76 @@
+body {
+    background-color: #e4e1d7;
+}
+
+/*Inicio da primeira seção*/
+
+.secao {
+    width: 600px;
+    text-align: center;
+    margin: 20px auto;
+    font-family: Tahoma;
+}
+
+.topo {
+    border-bottom: 1px solid #e3a520;
+}
+
+a {
+    color: black;
+    margin-left: 20px;
+}
+
+.logotipo {
+    width: 200px;
+}
+
+/*Fim da Primeira Seção*/
+
+/*Inicio da Segunda Seção*/
+
+.secao h1 {
+    font-size: 25px;
+}
+
+.secao h2 {
+    font-size: 18px;
+    color: #ebb434;
+}
+
+.secao .imagem-produto {
+    width: 600px;
+}
+
+/*Fim da Segunda Seção*/
+
+/*Inicio da Terceira Seção*/
+
+.secao-produto {
+    width: 540px;
+    background-color: #eb9534;
+    padding: 10px 30px;
+}
+
+.secao-produto h3,h4,p {
+    color: white;
+}
+
+.secao-produto img {
+    width: 400px;
+}
+
+/*Fim da Terceira Seção*/
+
+/*Inicio da Quarta Seção*/
+
+span {
+    color:black;
+    font-weight: bold;
+}
+
+.texto-destaque {
+    color: black;
+}
+
+
+
